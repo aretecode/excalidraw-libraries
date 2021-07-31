@@ -704,5 +704,18 @@
     "source": "Vasudevatirupathinaidu/random-figure-drawings.excalidrawlib",
     "preview": "Vasudevatirupathinaidu/random-figure-drawings.png",
     "date": "2021-06-25"
+  },
+  {
+    "name": "System design template",
+    "description": "Rough shapes to do rapid system design in front-end, full-stack, back-end, distributed, and product settings.",
+    "authors": [
+      {
+        "name": "James Wiens",
+        "url": "https://github.com/aretecode"
+      }
+    ],
+    "source": "aretecode/system-design-template-emoji.excalidrawlib",
+    "preview": "aretecode/system-design-template-emoji.png",
+    "date": "2021-07-18"
   }
 ]
